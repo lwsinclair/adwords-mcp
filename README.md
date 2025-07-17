@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gregce-adwords-mcp-badge.png)](https://mseep.ai/app/gregce-adwords-mcp)
+
 # Adwords MCP
 
 [![npm version](https://badge.fury.io/js/adwords-mcp.svg)](https://www.npmjs.com/package/adwords-mcp)
